@@ -9,6 +9,8 @@
 Employee attrition is a costly challenge for organizations. This project analyzes 3,000+ employee records to identify the key drivers of attrition, helping HR teams make data-driven retention decisions.
 
 ## Dashboard Preview
+![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](HRDashboard.png)
 
 ## Key Insights
 - Attrition rate was highest in the **Sales department** (21%)
