@@ -10,7 +10,7 @@ Employee attrition is a costly challenge for organizations. This project analyze
 
 ## Dashboard Preview
 ![Dashboard Preview](Dashboard.png)
-![Dashboard Preview](HRDashboard.png)
+![Dashboard Preview](HR_Dashboard.png)
 
 ## Key Insights
 - Attrition rate was highest in the **Sales department** (21%)
